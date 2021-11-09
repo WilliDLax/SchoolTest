@@ -1,0 +1,15 @@
+/Users/wemabank/Projects/SchoolTest/SchoolTest/bin/Debug/net5.0/SchoolTest.deps.json
+/Users/wemabank/Projects/SchoolTest/SchoolTest/bin/Debug/net5.0/SchoolTest.runtimeconfig.json
+/Users/wemabank/Projects/SchoolTest/SchoolTest/bin/Debug/net5.0/SchoolTest.runtimeconfig.dev.json
+/Users/wemabank/Projects/SchoolTest/SchoolTest/bin/Debug/net5.0/SchoolTest.dll
+/Users/wemabank/Projects/SchoolTest/SchoolTest/bin/Debug/net5.0/ref/SchoolTest.dll
+/Users/wemabank/Projects/SchoolTest/SchoolTest/bin/Debug/net5.0/SchoolTest.pdb
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.csproj.AssemblyReference.cache
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.AssemblyInfoInputs.cache
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.AssemblyInfo.cs
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.csproj.CoreCompileInputs.cache
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.dll
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/ref/SchoolTest.dll
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.pdb
+/Users/wemabank/Projects/SchoolTest/SchoolTest/obj/Debug/net5.0/SchoolTest.genruntimeconfig.cache
