@@ -7,7 +7,7 @@ namespace SchoolTest
     {
         static void Main(string[] args)
         {
-            var firstScoreList = "oldScores.txt";
+            var firstScoreList = "scores.txt";
             var revisedScoreList = "newScores.txt";
 
             int indexOfDash;
@@ -21,7 +21,7 @@ namespace SchoolTest
             {
                 indexOfDash = score.IndexOf("-");
 
-                name = score.Substring(0, indexOfDash);
+                name = score.Substring(0,indexOfDash);
                 initialScore = int.Parse(score.Substring(indexOfDash + 1));
 
                 if (initialScore > 50)
@@ -40,6 +40,21 @@ namespace SchoolTest
                 File.AppendAllLines(revisedScoreList,new string[] {scoreText});
             }
 
+            Console.WriteLine("///////Old scores////////");
+            foreach (var oldScores in File.ReadAllLines(firstScoreList))
+            {
+                Console.WriteLine(oldScores);
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("///////Updated scores////////");
+            foreach (var newScores in File.ReadAllLines(revisedScoreList))
+            {
+                Console.WriteLine(newScores);
+            }
+
+            Console.WriteLine();
             Console.WriteLine("Scores updated, check file to see changes.");
             Console.WriteLine("File location at bin>Debug>net5.0>newScores");
 
